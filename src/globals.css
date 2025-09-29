@@ -1,0 +1,3 @@
+@import "./components/redpanda-ui/style/theme.css";
+@import "tailwindcss";
+@import "tw-animate-css";
